@@ -10,5 +10,8 @@
     "puppeter"
   ],
   "author": "Yuliy Yefymenko",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.6.1"
+  }
 }
