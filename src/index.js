@@ -1,5 +1,3 @@
-
 const app = require("./app");
 
-
-(async()=> await app.run())();
+(async () => await app.run())();
