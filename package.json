@@ -1,0 +1,14 @@
+{
+  "name": "puppeter-images",
+  "version": "1.0.0",
+  "description": "for download images",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeter"
+  ],
+  "author": "Yuliy Yefymenko",
+  "license": "ISC"
+}
