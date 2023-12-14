@@ -1,6 +1,7 @@
+const path = require("path");
 const NEXT_CLICK_ELEMENT = "#qs-slideshow-overlay-2b";
 const IMAGES_CONTAINER = "#qs-slideshow";
-const DOWNLOAD_DIR = "./src/downloads";
+const DOWNLOAD_DIR = path.resolve(__dirname, "./downloads");
 const OUR_SITE = "https://www.pravadaphotography.com/val_juanwedding";
 const ITERATION_CLICKS = 2;
 
